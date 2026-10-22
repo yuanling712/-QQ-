@@ -1,4 +1,4 @@
-# -大肥鱼QQ消息回复助手-
+# -大肥鱼QQ消息回复助手-（Deepseek-QQ-Chat-Assistant）
 
 有问题联系B站：洛鸢绫
 
